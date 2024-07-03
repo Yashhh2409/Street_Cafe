@@ -41,8 +41,8 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 - Cart Items
 ![cart cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/6a1ba301-7c25-41a5-a593-62f47b9cb226)
 
-- Credit Card Payment
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/990595ce-856c-46fe-8182-052a127d67b4)
+<!--- - Credit Card Payment
+![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/990595ce-856c-46fe-8182-052a127d67b4) --->
 
 - Order Details & Status
 ![orders cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/1791c045-6120-489f-9397-d2413d3d65f0)
@@ -53,7 +53,7 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 - Admin Home
 ![admin home page](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/3e1b28b4-6a1f-4afa-9eea-c7adab3008c3)
 
-- Stock Items
+<!--- - Stock Items
 ![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/e94e519b-e65c-4f51-8b37-e1b555208f2d)
 
 - Shipped Items
@@ -75,22 +75,11 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 <img width="404" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/cb60c616-c32c-42eb-abe5-494d8574c09a">
 
 - Class Diagram
-<img width="589" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd">
+<img width="589" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd"> --->
 
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
-
-![Sign in cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/497ed066-725f-4ec8-9aea-c5dfceb1dbe0)
-![cart cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/6a1ba301-7c25-41a5-a593-62f47b9cb226)
-![orders cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/1791c045-6120-489f-9397-d2413d3d65f0)
-![profile cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/6afe0e8b-4be5-4ef1-a28f-4535f168ad9d)
-![shipped orders admin cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/d8be7eca-7b76-4a25-b898-bb5ed8298dcd)
-![stock admin cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/ea690337-9686-423d-8582-1ed1c144f64d)
-![admin home page](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/3e1b28b4-6a1f-4afa-9eea-c7adab3008c3)
-![home page cafe ](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/97f95c0d-99c2-48bc-bafb-f83a750511cc)
-
-
                                                                                                         Project Leader<br/>
                                                                                                          <b>Yash Dhande</b>
 
