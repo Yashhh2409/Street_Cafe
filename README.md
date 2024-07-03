@@ -32,25 +32,25 @@ Note: The payment page is created only for demo purpose and its not fully integr
 Note:- This is a Sample Project for learning purpose, we have not much considered of web security.
 
 #### Some Screenshots for the project:
-- Home Page
+- # Home Page <br/>
 ![home page cafe ](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/97f95c0d-99c2-48bc-bafb-f83a750511cc)
 
-- Register Page
+- # Register Page <br/>
 ![Sign in cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/497ed066-725f-4ec8-9aea-c5dfceb1dbe0)
 
-- Cart Items
+- # Cart Items <br/>
 ![cart cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/6a1ba301-7c25-41a5-a593-62f47b9cb226)
 
 <!--- - Credit Card Payment
 ![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/990595ce-856c-46fe-8182-052a127d67b4) --->
 
-- Order Details & Status
+- # Order Details & Status <br/>
 ![orders cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/1791c045-6120-489f-9397-d2413d3d65f0)
 
-- User Profile
+- # User Profile <br/>
 ![profile cafe](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/6afe0e8b-4be5-4ef1-a28f-4535f168ad9d)
 
-- Admin Home
+- # Admin Home <br/>
 ![admin home page](https://github.com/Yashhh2409/Street_Cafe/assets/138235962/3e1b28b4-6a1f-4afa-9eea-c7adab3008c3)
 
 <!--- - Stock Items
